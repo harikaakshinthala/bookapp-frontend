@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.card-style{
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-style{
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-card{
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+  /* width: 200px;
+  height: 400px; */
+  margin-left: 30px;
+  margin-bottom: 30px;
+  gap:30px
+}
